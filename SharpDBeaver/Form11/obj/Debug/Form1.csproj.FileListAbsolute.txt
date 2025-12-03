@@ -1,0 +1,4 @@
+D:\GithubNew\12\CyberFinance\Finance\CyberFinance\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\12\CyberFinance\Finance\CyberFinance\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\18\SharpDBeaver\23\SharpDBeaver\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\18\SharpDBeaver\23\SharpDBeaver\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
